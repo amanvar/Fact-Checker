@@ -24,8 +24,9 @@ for i in xrange(len(sentences)):
 p = input("Input a fact from the doc. please: ")
 target = sopex.extract(p)
 
-
+#aman=1
 #print triplets[0].object
+# print aman1
 
 flag1 = -1
 flag2 = -1
